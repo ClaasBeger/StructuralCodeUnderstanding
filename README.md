@@ -112,6 +112,8 @@ We further investigated performance on advanced concepts:
 
 ![Model Performance](Visualizations/Bucket_linePlot_direct_overlap.png "Model Performance using various bucketed trace lengths")
 
+Paper available on [arXiv](https://arxiv.org/abs/2501.16456).
+
 # Citation
 
 ```bibtex
